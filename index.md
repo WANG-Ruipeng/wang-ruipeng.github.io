@@ -32,7 +32,7 @@ Basically everything about games and computer graphics, with some special intere
 
 - **[CIS 564: Introduction to Game Design](https://cis-5640-spring-2025.github.io/)** 2025 Spring
 
-- **[CIS 565: GPU Programming and Architecture](https://cis565-fall-2024.github.io/)** 2025 Fall
+- **[CIS 565: GPU Programming and Architecture](https://cis5650-fall-2025.github.io/)** 2025 Fall
 
 - **[CIS 566: Procedural Computer Graphics](https://github.com/CIS-5660-Fall-2025)** 2025 Fall
 
